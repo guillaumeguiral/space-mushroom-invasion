@@ -1,0 +1,26 @@
+{
+  "name": "space-mushroom-invasion",
+  "version": "1.0.0",
+  "description": "Game prototype based on \"mushroom\" themed gamejam",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guillaumeguiral/space-mushroom-invasion.git"
+  },
+  "keywords": [
+    "game",
+    "gamejam",
+    "phaser",
+    "mushroom",
+    "javascript"
+  ],
+  "author": "Guillaume Guiral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumeguiral/space-mushroom-invasion/issues"
+  },
+  "homepage": "https://github.com/guillaumeguiral/space-mushroom-invasion#readme"
+}
