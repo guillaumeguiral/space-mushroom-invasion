@@ -69,7 +69,7 @@ ChampGame.MainMenu.prototype = {
   },
 
   btnHelpHandler: function() {
-    this.game.stateTransition.to('help');
+    // TODO: this.game.stateTransition.to('help');
   },
 
   btnFullScreenHandler: function() {

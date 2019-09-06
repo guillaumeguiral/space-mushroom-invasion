@@ -2,7 +2,7 @@
 
 Very old game prototype based on _mushroom_ themed gamejam. Built with PhaserJS.
 
-The high score section is not integrated.
+The _high score_ and _help_ sections are not integrated.
 
 ## Demo
 
